@@ -1,0 +1,15 @@
+Week 9 – Chatbot Development
+Domain: Education
+Model: Llama 3.2 using Ollama
+
+Observations:
+1. The chatbot answers educational questions in simple English.
+2. It can maintain conversation history during a session.
+3. It saves user questions and chatbot responses with timestamps.
+4. Response quality depends on the local language model.
+5. Some answers may be incorrect or incomplete and should be verified.
+
+Limitations:
+1. The chatbot requires Ollama to be running.
+2. The model may sometimes generate incorrect answers.
+3. The chatbot currently runs in the command line.
