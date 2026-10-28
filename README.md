@@ -38,3 +38,4 @@ The chatbot answers educational questions and uses conversation history to provi
 - Responses depend on the local language model.
 - The model may generate incorrect information.
 - A local model must be available through Ollama.
+# week_9
